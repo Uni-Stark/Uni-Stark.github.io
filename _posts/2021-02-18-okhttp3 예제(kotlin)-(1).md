@@ -56,5 +56,7 @@ class MainActivity : AppCompatActivity() {
 }
 ~~~
 
-그리고 아래 로그와 같이 http 통신이 된걸 확인할 수 있다.
+그리고 아래 로그와 같이 통신이 된걸 확인할 수 있다.
+
+![img](./img/2021-02-18/result_img.PNG)
 
